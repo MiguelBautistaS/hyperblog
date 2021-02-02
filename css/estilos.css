@@ -13,7 +13,7 @@ body {
   color: white;
   font-weight: bold;
   margin: 0;
-  padding: 0;
+  padding: 0.5em;
 }
 
 #tagline {
@@ -31,4 +31,10 @@ body {
 
 #container h1 {
   font-size: 20px;
+}
+
+#dragon {
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
 }
